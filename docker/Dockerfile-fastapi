@@ -16,4 +16,4 @@ RUN pip install -r ${ENV}.txt
 
 
 # Copy source code to docker
-ADD . /src
+ADD . /code

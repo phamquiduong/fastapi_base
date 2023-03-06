@@ -1,2 +1,4 @@
 fastapi
 uvicorn
+fastapi-jwt-auth
+python-dotenv
